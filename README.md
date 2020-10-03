@@ -20,8 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
+<img src='https://github.com/AnaMart1nez/Flixster/blob/master/FlixsterPart2Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
 
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
@@ -51,7 +52,6 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-*Note: Size of GIF is too large, file can be found on Flixster -> master -> FlixsterPart1Demo.gif
 <img src='https://github.com/AnaMart1nez/Flixster/blob/master/FlixsterPart1Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
