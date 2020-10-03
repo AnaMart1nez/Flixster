@@ -2,9 +2,10 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@android:color/background_light"
+    android:id="@+id/container"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:background="@android:color/background_light">
 
     <ImageView
         android:id="@+id/ivPoster"
@@ -24,7 +25,7 @@
         android:layout_marginTop="7dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:textSize="24dp"
-        tools:text="Money Plane"/>
+        tools:text="Money Plane" />
 
     <TextView
         android:id="@+id/tvOverview"
